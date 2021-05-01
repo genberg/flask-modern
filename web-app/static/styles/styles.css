@@ -12,7 +12,7 @@ body {
 
 #text-center{
   border-style: solid;
-  color: #757575;
+  border: none !important;
 }
 /* Add a black background color to the top navigation */
 .topnav {
